@@ -6,3 +6,4 @@ print("Please enter your favourite animal:")
 animal = input("Animal: ")
 print("Your band name is " + colour + " " + animal + " " + name + ".")
 print("Thank you for using Band Name Generator! Bye!!")
+

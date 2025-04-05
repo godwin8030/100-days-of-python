@@ -1,0 +1,7 @@
+print("How much was the bill?")
+input("Bill: ")
+print("What percentage tip would you like to give?")
+input("Tip percentage: ")
+print("How many people to split the bill?")
+input("People: ")
+print("Each person should pay: " + str(input("Bill") * (1 + input("Tip percentage") / 100) / input("People")) + " dollars.")
