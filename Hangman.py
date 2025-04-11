@@ -1,6 +1,6 @@
 import random
 
-word_list = ["apple", "cat", "dog", "tony"]
+word_list = ["apple", "cat", "dog", "tony", "Eddie"]
 
 choosen_word = random.choice(word_list)
 print(choosen_word)
@@ -14,7 +14,7 @@ game_over = False
 right_letters = []
 
 while not game_over:
-    guess = input("Guess a letter: ").lower()
+    guess = input("Please Guess a letter: ").lower()
 
     display = ""
 
