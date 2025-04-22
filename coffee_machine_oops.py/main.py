@@ -19,3 +19,4 @@ while is_on:
     if choice == "off":
         coffee_maker.report()
         money_machine.report()
+        change
