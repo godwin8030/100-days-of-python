@@ -17,4 +17,5 @@ while quiz.continue_questions:
 
 print("Hurray! You have completed the quiz")
 print("Hurray! You have completed the quiz")
+print("Hurray! You have completed the quiz")
 print(f"The final score is: {quiz.score}/{len(question_bank)}")
