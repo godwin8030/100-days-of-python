@@ -1,12 +1,13 @@
 from turtle import Turtle, Screen
 
-jack_turt = Turtle()
+jack = Turtle()
 
-jack_turt.forward(100)
-jack_turt.left(90)
-jack_turt.forward(100)
-jack_turt.left(90)
-jack_turt.forward(100)
-jack_turt.left(90)
-jack_turt.forward(100)
-jack_turt.left(90)
+
+jack.forward(100)
+jack.left(90)
+jack.forward(100)
+jack.left(90)
+jack.forward(100)
+jack.left(90)
+jack.forward(100)
+jack.left(90)
